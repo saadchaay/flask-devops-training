@@ -31,4 +31,5 @@ $ docker inspect -f '{{ .Config.Hostname }}' my-container
 6095273a4e9b
 ```
 
+# APPLY RESOLVE MERGE BRANCH FEAUTURE
 
